@@ -10,9 +10,9 @@ Feel free to let me know what else you want added via:
 | :------ 					| :-----  |
 | :octocat: 				| [Issues](https://github.com/proficientdesigners/sublime-text-bs4-autocomplete/issues) |
 
-[screenshot](Screenshot_1.png)
+![screenshot](Screenshot_1.png)
 
-[screenshot](Screenshot_2.png)
+![screenshot](Screenshot_2.png)
 
 
 ## Installation
