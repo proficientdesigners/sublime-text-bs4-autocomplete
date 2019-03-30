@@ -4,7 +4,7 @@
 ###### 👉 Bootstrap 4.3 - Sublime Autocomplete - *(Currently Bootstrap v4.3.1)*
 ---
 
-Feel free to let me know what else you want added via:
+If any classes left out in this plugin, please let us know via:
 
 | :globe_with_meridians: 	| [proficientdesigners.com](https://proficientdesigners.com/) |
 | :------ 					| :-----  |
