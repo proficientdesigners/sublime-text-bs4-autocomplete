@@ -4,15 +4,15 @@
 ###### 👉 Bootstrap 4.3 - Sublime Autocomplete - *(Currently Bootstrap v4.3.1)*
 ---
 
-Feel free to let me know what else you want added via:
+If any classes left out in this plugin, please let us know via:
 
 | :globe_with_meridians: 	| [proficientdesigners.com](https://proficientdesigners.com/) |
 | :------ 					| :-----  |
 | :octocat: 				| [Issues](https://github.com/proficientdesigners/sublime-text-bs4-autocomplete/issues) |
 
-[screenshot](Screenshot_1.png)
+![screenshot](Screenshot_1.png)
 
-[screenshot](Screenshot_2.png)
+![screenshot](Screenshot_2.png)
 
 
 ## Installation
@@ -35,4 +35,4 @@ There are 3 methods for installing this plugin.
 
 ## License
 
-Bootstrap 4 - Sublime Plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Bootstrap 4.3 Autocomplete - Sublime Plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
