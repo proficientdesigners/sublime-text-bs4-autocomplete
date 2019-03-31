@@ -35,4 +35,4 @@ There are 3 methods for installing this plugin.
 
 ## License
 
-Bootstrap 4.3 Autocomplete - Sublime Plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Bootstrap 4.3 Autocomplete - Sublime Plugin is open-sourced software licensed under the [GPL license](https://www.gnu.org/licenses/gpl-3.0.en.html).
