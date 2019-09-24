@@ -1,0 +1,19 @@
+============================================================
+Thank you for installing Bootstrap 4.3 Autocomplete
+============================================================
+Visit us: https://proficientdesigners.com
+------------------------------------------------------------
+
+Bootstrap 4.3 autocomplete is a selection of bootstrap 4.3 classes
+that will greatly improve your workflow.
+
+This package is compatible with Sublime Text 3.
+
+Documentation, examples & issue filing can be found here:
+https://github.com/proficientdesigners/sublime-text-bs4-autocomplete/issues
+
+Changelog:
+
+v1.0.4
+------
+* Missing classes added
