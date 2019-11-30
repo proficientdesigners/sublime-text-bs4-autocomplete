@@ -2,11 +2,11 @@ import sublime_plugin
 import sublime
 from .bootstrap_4_data import classes as bs4_classes
 
-class Bootstrap43Completions(sublime_plugin.EventListener):
+class Bootstrap4Completions(sublime_plugin.EventListener):
 
     def __init__(self):
 
-        self.class_completions = [("%s \tBootstrap 4.3 Class" % s, s) for s in bs4_classes]
+        self.class_completions = [("%s \tBootstrap 4.4 Class" % s, s) for s in bs4_classes]
 
     def on_query_completions(self, view, prefix, locations):
 
