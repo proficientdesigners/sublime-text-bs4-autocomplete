@@ -1,7 +1,7 @@
-# Bootstrap 4.3 Autocomplete - Sublime Text 3
+# Bootstrap 4.4 Autocomplete - Sublime Text 3
 
-#### A sublime plugin complete with Bootstrap 4.3 Autocomplete
-###### 👉 Bootstrap 4.3 - Sublime Autocomplete - *(Currently Bootstrap v4.3.1)*
+#### A sublime plugin complete with Bootstrap 4.4 Autocomplete
+###### 👉 Bootstrap 4.4 - Sublime Autocomplete - *(Currently Bootstrap v4.4.1)*
 ---
 
 If any classes left out in this plugin, please let us know via:
@@ -18,7 +18,7 @@ If any classes left out in this plugin, please let us know via:
 ## Installation
 There are 3 methods for installing this plugin.
 
-1. Search for "Bootstrap 4.3 Autocomplete" via the "Package Control: Install Packages" menu.
+1. Search for "Bootstrap 4.4 Autocomplete" via the "Package Control: Install Packages" menu.
 **Note:** If you don't have Sublime Package Control installed, you can find out how to install it here [https://sublime.wbond.net/installation](https://sublime.wbond.net/installation)
 
 2. Clone the repository into your Sublime Text 3 packages directory.
@@ -35,4 +35,4 @@ There are 3 methods for installing this plugin.
 
 ## License
 
-Bootstrap 4.3 Autocomplete - Sublime Plugin is open-sourced software licensed under the [GPL license](https://www.gnu.org/licenses/gpl-3.0.en.html).
+Bootstrap 4.4 Autocomplete - Sublime Plugin is open-sourced software licensed under the [GPL license](https://www.gnu.org/licenses/gpl-3.0.en.html).
