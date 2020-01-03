@@ -10,9 +10,9 @@ If any classes left out in this plugin, please let us know via:
 | :------ 					| :-----  |
 | :octocat: 				| [Issues](https://github.com/proficientdesigners/sublime-text-bs4-autocomplete/issues) |
 
-![screenshot](Screenshot_1.png)
 
-![screenshot](Screenshot_2.png)
+## Screenshot
+![screenshot](Screenshot_1.png)
 
 
 ## Installation
