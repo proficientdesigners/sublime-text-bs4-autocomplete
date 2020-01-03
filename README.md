@@ -12,7 +12,7 @@ If any classes left out in this plugin, please let us know via:
 
 
 ## Screenshot
-![screenshot](Screenshot_1.png)
+![screenshot](Screenshot.png)
 
 
 ## Installation
