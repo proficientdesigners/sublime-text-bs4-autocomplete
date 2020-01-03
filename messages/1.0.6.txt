@@ -11,3 +11,10 @@ This package is compatible with Sublime Text 3.
 
 Documentation, examples & issue filing can be found here:
 https://github.com/proficientdesigners/sublime-text-bs4-autocomplete/issues
+
+Changelog:
+
+v1.0.6
+------
+* Added the classes of Bootstrap v4.4.1
+* Screenshot added
