@@ -27,6 +27,10 @@ There are 3 methods for installing this plugin.
 3. Download the .zip file and unzip it into your Sublime Text 3 packages directory.
 **Note:** You can find your Sublime Text 3 packages directory by going to Preferences > Browse Packages.
 
+## Demo Video
+
+[![Demo video](https://download.proficientdesigners.in/sublime-demo-video-screenshot.png)](https://youtu.be/A0WOxUwaDPI)
+
 ## Created & maintained by
 
 <p align="center">
