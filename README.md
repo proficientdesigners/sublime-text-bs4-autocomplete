@@ -29,7 +29,7 @@ There are 3 methods for installing this plugin.
 
 ## Demo Video
 
-[![Demo video](https://download.proficientdesigners.in/sublime-demo-video-screenshot.png)](https://youtu.be/A0WOxUwaDPI)
+[![Demo video](https://img.youtube.com/vi/A0WOxUwaDPI/maxresdefault.jpg)](https://youtu.be/A0WOxUwaDPI)
 
 ## Created by
 
