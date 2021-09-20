@@ -34,7 +34,7 @@ There are 3 methods for installing this plugin.
 ## Created by
 
 <p align="center">
-	<img src="https://proficientdesigners.com/static/media/logo.46f99241.svg" width="100px" alt="proficientdesigners">
+	<img src="https://pdapps.net.in/static/media/logo-new.781fe02e.png" width="100px" alt="proficientdesigners">
 </p>
 
 ## License
