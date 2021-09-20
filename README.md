@@ -31,7 +31,7 @@ There are 3 methods for installing this plugin.
 
 [![Demo video](https://download.proficientdesigners.in/sublime-demo-video-screenshot.png)](https://youtu.be/A0WOxUwaDPI)
 
-## Created & maintained by
+## Created by
 
 <p align="center">
 	<img src="https://proficientdesigners.com/img/logo_with_name.svg" width="300px" alt="proficientdesigners">
